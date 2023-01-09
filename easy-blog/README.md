@@ -1,24 +1,8 @@
 # README
+<!-- 
+This program helps understand the below concepts
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. How to display Hello World  using Rails framework
+2. Create controlers to help route
+3. Create new routes in the controller
+4. Create new scaffold Named article and Movies -->
